@@ -1,5 +1,4 @@
 
-````markdown
 # 🌌 APOD-PROJECT – NASA Astronomy Picture of the Day Viewer
 
 This project is a simple and responsive web application that fetches and displays the **Astronomy Picture of the Day (APOD)** using the [NASA APOD API](https://api.nasa.gov/). Users can view stunning astronomy images, read their explanations, and explore content from different dates.
